@@ -1,6 +1,4 @@
-### `README.md`
 
-```markdown
 # Firebase Studio – Lichess Clone (Next.js)
 
 A Next.js starter scaffolded in **Firebase Studio** with the goal of building a Lichess-like chess experience. Uses TypeScript, Tailwind CSS, and is set up for **Firebase App Hosting** deployment via `apphosting.yaml`.
@@ -267,12 +265,4 @@ Open a GitHub Issue with details (include steps to reproduce, expected vs. actua
 
 If you want, I can also add a small example page that fetches the Lichess “puzzle of the day” and renders it in `src/app/page.tsx`.
 ::contentReference[oaicite:16]{index=16}
-```
 
-[1]: https://firebase.google.com/docs/app-hosting/configure?utm_source=chatgpt.com "Configure and manage App Hosting backends - Firebase"
-[2]: https://firebase.google.com/docs/hosting/frameworks/nextjs?utm_source=chatgpt.com "Integrate Next.js | Firebase Hosting - Google"
-[3]: https://github.com/lichess-org/api?utm_source=chatgpt.com "Lichess API documentation and examples"
-[4]: https://github.com/lichess-org/lila?utm_source=chatgpt.com "lichess-org/lila"
-[5]: https://firebase.google.com/docs/studio?utm_source=chatgpt.com "Firebase Studio - Google"
-[6]: https://firebase.blog/posts/2025/04/apphosting-general-availability/?utm_source=chatgpt.com "Deploy Angular & Next.js apps with App Hosting, now GA!"
-[7]: https://github.com/lichess-org?utm_source=chatgpt.com "Lichess"
